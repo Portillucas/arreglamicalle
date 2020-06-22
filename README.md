@@ -1,2 +1,0 @@
-# arreglamicalle
-Versión Móvil
